@@ -42,4 +42,4 @@ EDA involved exploring the sales data to answer key questions, such as:
 8. Insights derived from sales analysis provide actionable intelligence for decision-making, guiding strategic initiatives and resource allocation for business growth.
 
 
-[Jupyter Notebook](https://github.com/KritikaParasharDA/Electronic-Sales-Analysis/blob/main/ElectronicSalesAnalysis.ipynb)
+[Jupyter Notebook along with visualizations](https://github.com/KritikaParasharDA/Electronic-Sales-Analysis/blob/main/ElectronicSalesAnalysis.ipynb)
